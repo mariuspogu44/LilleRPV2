@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "discord.js": "^13.6.0"
+  },
+  "name": "lillerp",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mariuspogu",
+  "license": "ISC"
+}
